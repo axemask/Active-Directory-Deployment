@@ -1,0 +1,1 @@
+Add-Computer -DomainName "domainname.here" -Credential domainname\Administrator -Restart

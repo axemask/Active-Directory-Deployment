@@ -1,0 +1,1 @@
+Install-WindowsFeature -Name AD-Domain-Services,GPMC,DNS,RSAT-AD-Tools -IncludeManagementTools -Restart

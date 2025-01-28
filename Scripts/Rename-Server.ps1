@@ -1,0 +1,1 @@
+Rename-Computer -NewName "MONCTON-DC01" -Restart

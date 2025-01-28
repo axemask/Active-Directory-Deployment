@@ -1,4 +1,4 @@
-# Active Directory Configuration
+# Active Directory Deployment
 
 This repo is all about Active Directory. More specifically, it is all about setting up an Active Directory environment. It covers everything from the initial configuration of hosts, installation and configuration of domain controllers, configuration of client machines, useful scripts that will help in the above configurations and probably a lot more.
 
